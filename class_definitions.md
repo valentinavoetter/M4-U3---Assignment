@@ -1,4 +1,4 @@
-#Class 0
+# Class 0
 Class name: Spalling
 Positive definition: A visibly damaged concrete area where material is missing from the surrounding surface, creating an irregular, broken or recessed region.
 Boundary cases: Scaling, honeycombing, chipping, cracks and exposed aggregate.
