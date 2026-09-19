@@ -17,6 +17,9 @@ See docs/class_definitions.md
 * Train/val/test split:
 
 # Labeling rules
-*
-*
-*
+* I will label only areas with visible concrete material loss or detachment.
+* I will not label cracks without concrete material loss.
+* I will not label concrete scaling or honeycombing unless clear spalling is also present.
+* I will not label stains, shadows or discoloration as spalling.
+* I will not label very small or unclear damage that cannot be confidently identified as spalling.
+* I will label partially visible spalling only when enough of the damaged area is visible to identify it confidently.
