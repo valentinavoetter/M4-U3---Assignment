@@ -10,3 +10,8 @@ This repository includes all the deliverables required for the M4-U3 - Assignmen
 
 # Class definitions
 See docs/class_definitions.md
+
+# Dataset
+* Roboflow link:
+* Image count: 120
+* Train/val/test split:
