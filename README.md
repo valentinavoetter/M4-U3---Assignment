@@ -15,3 +15,8 @@ See docs/class_definitions.md
 * Roboflow link:
 * Image count: 120
 * Train/val/test split:
+
+# Labeling rules
+*
+*
+*
