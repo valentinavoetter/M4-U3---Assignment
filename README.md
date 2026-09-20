@@ -31,6 +31,20 @@ See docs/class_definitions.md
 # How to reproduce
 ()
 
+# Results summary
+* Precision: ()
+* Recall: ()
+* mAP: ()
+* Key takeaways: ()
+
+# Reproducibility checklist
+* Dataset version/link: ()
+* Model variant: ()
+* Epochs: ()
+* Batch: ()
+* Image size: ()
+* Ultralytics version: ()
+
 # Reproducibility proof
 * Date/time of las successful run: ()
 * GPU/CPU used: ()
