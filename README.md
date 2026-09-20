@@ -23,3 +23,15 @@ See docs/class_definitions.md
 * I will not label stains, shadows or discoloration as spalling.
 * I will not label very small or unclear damage that cannot be confidently identified as spalling.
 * I will label partially visible spalling only when enough of the damaged area is visible to identify it confidently.
+
+# Dataset
+* Roboflow link: ()
+* Split: 80/20
+
+# How to reproduce
+()
+
+# Reproducibility proof
+* Date/time of las successful run: ()
+* GPU/CPU used: ()
+* Expected runtime range: ()
