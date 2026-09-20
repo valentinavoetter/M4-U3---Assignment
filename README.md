@@ -12,9 +12,9 @@ This repository includes all the deliverables required for the M4-U3 - Assignmen
 See docs/class_definitions.md
 
 # Dataset
-* Roboflow link:
+* Roboflow link: ()
 * Image count: 120
-* Train/val/test split:
+* Train/val/test split: ()
 
 # Labeling rules
 * I will label only areas with visible concrete material loss or detachment.
