@@ -1,5 +1,5 @@
 # M4-U3 - Assignment
-This repository includes all the deliverables required for the M4-U3 - Assignment on Computer Vision.
+This repository includes all the deliverables required for the M4-U3 - Assignment on Computer Vision. This model is an assistive tool for preliminary screening only. It produces false negatives. It must NOT be used as the sole verifier for life-safety decisions.
 
 # Problem framing
 * Object of interest: Concrete spalling.
