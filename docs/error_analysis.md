@@ -4,9 +4,9 @@
 * 3) What: Surface scaling. Why: The image shows localized deterioration of the outer concrete surface, with a rough and partially detached-looking surface layer that is more consistent with scaling than with the defined spalling class. The model likely classifies this area as spalling with 80 % confidence because both defects can present irregular boundaries, rough textures and visible surface material loss, making them difficult to distinguish from image appearance alone.
 
 # False negatives (see main/results/evidence/False negatives)
-* What: (), Why: ()
-* What: (), Why: ()
-* What: (), Why: ()
+* 1) What: Concrete spalling. Why: The image contains two visually distinct damaged concrete regions, but the model detects only the upper region with 81 % confidence and misses the lower region. The missed region has a different texture, shape and contrast from the detected region, suggesting that the model may not yet generalize consistently across different visual appearances of spalling within the same image.
+* 2) What: Concrete spalling. Why: The image shows a relatively large area of concrete material loss surrounded by extensive cracking and loose concrete debris, but the model does not detect any spalling. The false negative may result from the complex visual scene, where cracks, broken fragments, shadows and varying surface textures make the spalled region less visually distinct from its surroundings.
+* 3) What: Concrete spalling. Why: The image shows localized concrete spalling with exposed reinforcement and a rough, recessed damaged surface, but no detection is produced by the model. The model may have missed the defect because the appearance is dominated by the exposed reinforcement and relatively low-contrast damaged concrete, which may be underrepresented in the training data.
 
 # Next prioritized data improvements
 * Adding more hard-negative examples: including more images of honeycombing, scaling, exposed aggregate, cracks and surface chipping without spalling to reduce false-positive detections.
