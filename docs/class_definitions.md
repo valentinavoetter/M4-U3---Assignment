@@ -1,5 +1,5 @@
 # Class 0
-* Class name: Spalling
+* Class name: Concrete spalling
 * Positive definition: A visibly damaged concrete area where material is missing from the surrounding surface, creating an irregular, broken or recessed region.
 * Boundary cases: Scaling and honeycombing (see Class 1).
 * Box rule: One box around each visually distinct and continuous spalled area, including the complete visible area of material loss but minimizing surrounding undamaged concrete. Two boxes, if two damaged areas are clearly separated by intact concrete.
