@@ -32,7 +32,7 @@ See docs/class_definitions.md
 * I will label partially visible spalling only when enough of the damaged area is visible to identify it confidently.
 
 # How to reproduce
-[![Open In Colab](https://colab.research.google.com/notebook)](https://colab.research.google.com/github/valentinavoetter/M4-U3-Assignment/blob/main/notebooks/M4-U3-Assignment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinavoetter/M4-U3-Assignment/blob/main/notebooks/M4-U3-Assignment.ipynb)
 
 # Results summary
 * Precision: ()
