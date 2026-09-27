@@ -43,7 +43,7 @@ See docs/class_definitions.md
 3) The model achieved an mAP@50 of 65.7 % indicating moderate object-detection performance on the test set. However, the relatively high recall (83.3 %) compared with precision (62.5 %) indicates that the model is more successful at finding existing spalling than at avoiding false-positive detections.
 4) Results should be interpreted cautiously due to the limited test-set size. With a relatively small dataset, individual correct or incorrect detections can have a noticeable impact on the reported metrics. Further evaluation on a larger and more diverse set of unseen images would be necessary to assess the model's generalization to real-world inspection conditions.
 
-# Reproducibility checklist
+# Reproducibility checklist (Google Colab)
 * Dataset version/link: v1.0/https://universe.roboflow.com/valentina-votter/m4-u3-assignment-d3j9b
 * Model variant: YOLOv11
 * Epochs: 10
@@ -51,7 +51,7 @@ See docs/class_definitions.md
 * Image size: 640
 * Ultralytics version: 8.4.163
 
-# Reproducibility proof
-* Date/time of las successful run: ()
-* GPU/CPU used: ()
-* Expected runtime range: ()
+# Reproducibility proof (Google Colab)
+* Date/time of las successful run: 27.09.2027/8:11
+* GPU/CPU used: Google Colab CPU
+* Expected runtime range: approximately 20–30 minutes
