@@ -33,6 +33,8 @@ See docs/class_definitions.md
 
 # How to reproduce
 ()
+Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ValentinaVotter/M4-U3---Assignment/blob/main/<notebook>.ipynb)
 
 # Results summary
 * Precision: ()
