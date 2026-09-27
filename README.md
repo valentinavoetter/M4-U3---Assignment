@@ -9,7 +9,7 @@ This repository includes all the deliverables required for the M4-U3 - Assignmen
 * Failure mode: False negatives, where visible concrete spalling is present but not detected by the model. Secondary failure modes include false positives caused by visually similar features such as concrete scaling and honeycombs.
 
 # How to install
-()
+No local installation is required. The project can be run directly in Google Colab (see How to reproduce).
 
 # Class definitions
 See docs/class_definitions.md
