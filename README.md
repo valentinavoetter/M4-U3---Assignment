@@ -44,9 +44,9 @@ See docs/class_definitions.md
 4) Results should be interpreted cautiously due to the limited test-set size. With a relatively small dataset, individual correct or incorrect detections can have a noticeable impact on the reported metrics. Further evaluation on a larger and more diverse set of unseen images would be necessary to assess the model's generalization to real-world inspection conditions.
 
 # Reproducibility checklist
-* Dataset version/link: v2/()
+* Dataset version/link: v1.0/https://universe.roboflow.com/valentina-votter/m4-u3-assignment-d3j9b
 * Model variant: YOLOv11
-* Epochs: 50
+* Epochs: 10
 * Batch: 16
 * Image size: 640
 * Ultralytics version: 8.4.163
