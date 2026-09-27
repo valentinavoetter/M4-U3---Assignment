@@ -2,7 +2,7 @@
 The dataset focuses on concrete surfaces and does not intentionally include faces, license plates or other personally identifiable information (PII). Images containing identifiable people, license plates or other sensitive information are excluded from the dataset.
 
 # Data minimization
-Only images and annotations necessary for detecting visible concrete spalling are included. The dataset contains a single class, `Concrete spalling` and does not collect personal information or unrelated metadata.
+Only images and annotations necessary for detecting visible concrete spalling are included. The dataset contains a single class (Concrete spalling) and does not collect personal information or unrelated metadata.
 
 # Limitations statement
 The model detects visible characteristics associated with concrete spalling but does not determine the cause, depth, severity or structural significance of the damage. It is intended as a preliminary screening tool and must not replace professional inspection or structural assessment.
