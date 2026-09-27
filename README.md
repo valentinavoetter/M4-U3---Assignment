@@ -34,11 +34,17 @@ See docs/class_definitions.md
 # How to reproduce
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinavoetter/M4-U3-Assignment/blob/main/notebooks/M4-U3-Assignment.ipynb)
 
-# Results summary
-* Precision: ()
-* Recall: ()
-* mAP: ()
-* Key takeaways: ()
+# Results summary (Roboflow)
+* Precision: 62.5 %
+* Recall: 83.3 %
+* mAP: 65.7 %
+* F1: 71.4 %
+
+# Key takeaways:
+1) Recall = 83.3 %. The problem framing was essentially that a missed spalling region is more costly than a false alarm because a missed defect would not be flagged for human inspection. With 83.3% recall, the model is finding a fairly large proportion of the annotated spalling instances. So the result is aligned with the objective you defined before training.
+2) Precision = 62.5 %. The model is relatively liberal in identifying spalling. A precision of 62.5 % indicates that false positives are significant.
+3) The model achieved an mAP@50 of 65.7 % indicating moderate object-detection performance on the test set. However, the relatively high recall (83.3 %) compared with precision (62.5 %) indicates that the model is more successful at finding existing spalling than at avoiding false-positive detections.
+4) Results should be interpreted cautiously due to the limited test-set size. With a relatively small dataset, individual correct or incorrect detections can have a noticeable impact on the reported metrics. Further evaluation on a larger and more diverse set of unseen images would be necessary to assess the model's generalization to real-world inspection conditions.
 
 # Reproducibility checklist
 * Dataset version/link: v2/()
