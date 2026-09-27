@@ -37,8 +37,8 @@ See docs/class_definitions.md
 * Key takeaways: ()
 
 # Reproducibility checklist
-* Dataset version/link: ()
-* Model variant: ()
+* Dataset version/link: v2/()
+* Model variant: YOLOv11
 * Epochs: 50
 * Batch: ()
 * Image size: ()
