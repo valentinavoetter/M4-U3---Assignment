@@ -29,7 +29,12 @@ See docs/class_definitions.md
 * I will label partially visible spalling only when enough of the damaged area is visible to identify it confidently.
 
 # How to reproduce
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinavoetter/M4-U3-Assignment/blob/main/notebooks/M4-U3-Assignment.ipynb)
+1. Open the notebook in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinavoetter/M4-U3-Assignment/blob/main/notebooks/M4-U3-Assignment.ipynb)
+2. Select the CPU runtime.
+3. Run all cells from top to bottom.
+4. Load the dataset and trained YOLO11 Small model.
+5. Run validation and inference on the test and new images.
+6. Compare the outputs with the results reported in this repository.
 
 # Results summary (Roboflow)
 * Precision: 62.5 %
