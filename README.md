@@ -44,9 +44,9 @@ See docs/class_definitions.md
 * Dataset version/link: v2/()
 * Model variant: YOLOv11
 * Epochs: 50
-* Batch: ()
-* Image size: ()
-* Ultralytics version: ()
+* Batch: 16
+* Image size: 640
+* Ultralytics version: 8.4.163
 
 # Reproducibility proof
 * Date/time of las successful run: ()
