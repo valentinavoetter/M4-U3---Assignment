@@ -17,7 +17,7 @@ See docs/class_definitions.md
 # Dataset
 * Roboflow link: ()
 * Image count: 120
-* Train/val/test split: ()
+* Train/val/test split: 80/20/10
 
 # Labeling rules
 * I will label only areas with visible concrete material loss or detachment.
