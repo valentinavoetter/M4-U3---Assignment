@@ -16,8 +16,12 @@ See docs/class_definitions.md
 
 # Dataset
 * Roboflow link: https://universe.roboflow.com/valentina-votter/m4-u3-assignment-d3j9b
+* Release URL v1.0:
+* SHA256 checksum v1.0: 087A862753D6427E53FA5615317F250693462B47974E048347102B423C7C5230
+* Release URL v2.0: ()
+* SHA256 checksum v2.0: ()
 * Image count: 120
-* Train/val/test split: 80/20/10
+* Train/val/test split: 70/20/10
 
 # Labeling rules
 * I will label only areas with visible concrete material loss or detachment.
