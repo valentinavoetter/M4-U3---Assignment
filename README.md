@@ -15,7 +15,7 @@ This repository includes all the deliverables required for the M4-U3 - Assignmen
 See docs/class_definitions.md
 
 # Dataset
-* Roboflow link: ()
+* Roboflow link: https://universe.roboflow.com/valentina-votter/m4-u3-assignment-d3j9b
 * Image count: 120
 * Train/val/test split: 80/20/10
 
@@ -26,10 +26,6 @@ See docs/class_definitions.md
 * I will not label stains, shadows or discoloration as spalling.
 * I will not label very small or unclear damage that cannot be confidently identified as spalling.
 * I will label partially visible spalling only when enough of the damaged area is visible to identify it confidently.
-
-# Dataset
-* Roboflow link: ()
-* Split: 80/20
 
 # How to reproduce
 ()
@@ -43,7 +39,7 @@ See docs/class_definitions.md
 # Reproducibility checklist
 * Dataset version/link: ()
 * Model variant: ()
-* Epochs: ()
+* Epochs: 50
 * Batch: ()
 * Image size: ()
 * Ultralytics version: ()
